@@ -10,3 +10,7 @@ for blah in people:
 	nop+= 1
 	print(nop)
 
+import datetime
+current=datetime.datetime.now()
+print(current)
+
